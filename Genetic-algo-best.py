@@ -26,9 +26,9 @@ graph = [
     [100, 65, 70, 75, 80, 85, 90, 95, 100, 65, 70, 75, 40, 55, 20, 35, 30, 40, 15, 0]]
 
 
-pop_size = 50
+pop_size = 1000
 mutation_rate = 0.1
-num_generations = 200
+num_generations = 500
 
 
 def create_population(pop_size, graph):
